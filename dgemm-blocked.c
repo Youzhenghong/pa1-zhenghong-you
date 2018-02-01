@@ -9,7 +9,7 @@
 const char* dgemm_desc = "Simple blocked dgemm.";
 
 #if !defined(BLOCK_SIZE)
-#define BLOCK_SIZE 37
+#define BLOCK_SIZE 719
 // #define BLOCK_SIZE 719
 #endif
 
